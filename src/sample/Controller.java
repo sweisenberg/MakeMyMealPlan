@@ -26,7 +26,7 @@ public class Controller {
     public void removeAllItems(ActionEvent actionEvent) {
     }
 
-    public void makeBreakfastFocus(ListView.EditEvent<ListView> tEditEvent) {
+    public void makeBreakfastFocus(ListView.EditEvent<ListView> tEditEvent) {//This is a change
     }
 
     public void removeFocusedItem(ActionEvent actionEvent) {
