@@ -13,7 +13,8 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("groupVis.fxml"));
         primaryStage.setTitle("Not a title");
         primaryStage.setScene(new Scene(root));
-        primaryStage.show();
+        primaryStage.show();//This is more complicated than it needs to be.
+
     }
 
 
