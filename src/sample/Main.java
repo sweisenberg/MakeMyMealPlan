@@ -12,7 +12,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("groupVis.fxml"));
         primaryStage.setTitle("Not a title");
-        primaryStage.setScene(new Scene(root));
+        primaryStage.setScene(new Scene(root));//This change made on github in  Vis... /GVP
         primaryStage.show();//This is more complicated than it needs to be.ggg
 
     }
