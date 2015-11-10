@@ -23,7 +23,7 @@ public class Controller {
     public void printLabels(ActionEvent actionEvent) {
     }
 
-    public void removeAllItems(ActionEvent actionEvent) {
+    public void removeAllItems(ActionEvent actionEvent) {//This is another change
     }
 
     public void makeBreakfastFocus(ListView.EditEvent<ListView> tEditEvent) {//This is a change
